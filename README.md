@@ -60,4 +60,4 @@ clipboardManager = (ClipboardManager) getSystemService(Context.CLIPBOARD_SERVICE
 
 <img src="app_images/Copy Paste Code.png" width="1000" /><br>
 
-<img src="app_images/Copy Paste App1.png" width="300" /> <img src="app_images/Copy Paste App2.png" width="300" /> <img src="app_images/Copy Paste App3png" width="300" /><br>
+<img src="app_images/Copy Paste App1.png" width="300" /> <img src="app_images/Copy Paste App2.png" width="300" /> <img src="app_images/Copy Paste App3.png" width="300" /><br>
