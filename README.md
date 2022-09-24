@@ -60,6 +60,8 @@ clipboardManager = (ClipboardManager) getSystemService(Context.CLIPBOARD_SERVICE
 
 # App Highlight
 
-<img src="app_images/Copy Paste Code.png" width="1000" /><br>
+![Copy Paste Code](https://user-images.githubusercontent.com/74413402/192094922-5f400fc4-cbf4-4c5b-838e-8a397a0b8c6e.png)
+![Copy Paste App1](https://user-images.githubusercontent.com/74413402/192094927-410a8115-19c2-4542-aabf-20a4dca12fc4.png)
+![Copy Paste App2](https://user-images.githubusercontent.com/74413402/192094934-50184072-52fc-482c-850f-302e7c51a151.png)
+![Copy Paste App3](https://user-images.githubusercontent.com/74413402/192094936-8073efed-cd8b-46d8-8a6c-d6b07bca6886.png)
 
-<img src="app_images/Copy Paste App1.png" width="300" /> <img src="app_images/Copy Paste App2.png" width="300" /> <img src="app_images/Copy Paste App3.png" width="300" /><br>
